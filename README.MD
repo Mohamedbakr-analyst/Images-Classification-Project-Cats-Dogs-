@@ -79,11 +79,12 @@ model.fit(X_train, y_train, epochs=10, validation_data=(X_val, y_val))
 ## 📊 Evaluation
 
 * Accuracy and Loss curves
-* Confusion matrix
-* Classification report
-
 ![Loss Plot](Images/Loss%20Plot.png)
+
+* Confusion matrix
 ![Accuracy Plot](Images/Accuracy%20Plot.png)
+
+* Classification report
 ![Confusion Matrix](Images/Confusion%20Matrix.png)
 
 ---
@@ -94,8 +95,8 @@ model.fit(X_train, y_train, epochs=10, validation_data=(X_val, y_val))
 * View prediction result in Arabic
 * Display uploaded image
 
-![GUI Dog Screenshot](images/DOG.png)
-![GUI Cat Screenshot](images/CAT.png)
+![GUI Dog Screenshot](Images/DOG.png)
+![GUI Cat Screenshot](Images/CAT.png)
 
 ---
 
